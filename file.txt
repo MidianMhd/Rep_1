@@ -2,3 +2,4 @@ file_1
 Hello world
 Add one
 Add two
+Add three
